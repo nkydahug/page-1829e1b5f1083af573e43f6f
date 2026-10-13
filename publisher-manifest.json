@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c23f99585f7d0003dec40086",
+  "owner": "nkydahug",
+  "repo": "page-1829e1b5f1083af573e43f6f",
+  "title": "机场测评",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1829e1b5f1083af573e43f6f",
+      "a": "机场测评",
+      "b": "",
+      "entity": "机场测评",
+      "brand": "机场测评",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2267d71c1565ebc54b603885d795908d4d83e2e4f4c76bea56adcbeeabfadba5",
+      "content": {
+        "keyword1": "机场测评",
+        "keyword2": "",
+        "primary_entity": "机场测评",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场测评为您提供专业的机场服务评测，包括基础版、旗舰版和团队版订阅方案，以及客户端下载指南。帮助用户选择适合的网络加速工具，实现流畅加速体验。",
+          "AI_DESCRIPTION": "机场测评为您提供专业的机场服务评测，包括基础版、旗舰版和团队版订阅方案，以及客户端下载指南。帮助用户选择适合的网络加速工具，实现流畅加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --primary: #0A2540;\n            --accent: #00BFFF;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: #f0f4f8;\n            color: #333;\n            line-height: 1.7;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: var(--primary);\n            text-align: center;\n            font-size: 2.8rem;\n            margin-bottom: 30px;\n            padding-bottom: 15px;\n            border-bottom: 4px solid var(--accent);\n        }\n        h2 {\n            color: var(--accent);\n            font-size: 1.8rem;\n            margin: 40px 0 20px;\n            padding-bottom: 10px;\n            border-bottom: 2px solid var(--primary);\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 20px;\n            margin: 30px 0;\n        }\n        .card {\n            background: white;\n            border-radius: 12px;\n            box-shadow: 0 6px 20px rgba(10, 37, 64, 0.1);\n            padding: 25px;\n            transition: all 0.3s ease;\n        }\n        .card:hover {\n            transform: translateY(-8px);\n            box-shadow: 0 10px 30px rgba(10, 37, 64, 0.15);\n        }\n        .card h3 {\n            color: var(--primary);\n            margin-top: 0;\n            font-size: 1.5rem;\n        }\n        .plan-price {\n            font-size: 1.8rem;\n            color: var(--accent);\n            font-weight: bold;\n            margin: 10px 0;\n        }\n        .card ul {\n            list-style: none;\n            padding: 0;\n        }\n        .card ul li {\n            padding: 8px 0;\n            border-bottom: 1px solid #eee;\n        }\n        .card ul li:last-child {\n            border-bottom: none;\n        }\n        .featured {\n            position: relative;\n        }\n        .featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: 15px;\n            right: 15px;\n            background: var(--accent);\n            color: white;\n            padding: 4px 12px;\n            border-radius: 20px;\n            font-size: 0.9rem;\n            font-weight: bold;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2.2rem;\n            }\n            .plans {\n                grid-template-columns: 1fr;\n            }\n        }\n        details {\n            background: white;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            margin-bottom: 10px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 15px 20px;\n            font-weight: bold;\n            cursor: pointer;\n            background: #f8f9fa;\n        }\n        summary:hover {\n            background: #e9ecef;\n        }\n        .content {\n            padding: 15px 20px;\n            display: block;\n        }\n    </style>\n\n\n    <main>\n        <h1>机场测评</h1>\n        <section>\n            <h2>欢迎来到机场测评</h2>\n            <p>机场测评是专注于VPN加速器、机场订阅服务的专业评测平台。我们提供真实的服务体验分享，帮助用户选择最适合的订阅方案和客户端下载方式，实现稳定高速的网络加速体验。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <p>机场测评适用于以下场景：</p>\n            <ul>\n                <li>解锁Netflix、YouTube、Disney+等流媒体平台</li>\n                <li>游戏加速，降低延迟，支持多人在线游戏</li>\n                <li>海外节点访问，突破地区限制</li>\n                <li>多设备同时使用，家庭或团队高效办公</li>\n            </ul>\n        </section>\n        <section>\n            <h2>操作指南</h2>\n            <ol>\n                <li>选择适合的订阅版本：基础版、旗舰版或团队版</li>\n                <li>购买并获取激活订阅链接</li>\n                <li>从官网下载对应客户端（支持Windows、Mac、Android、iOS）</li>\n                <li>导入节点配置，连接加速节点</li>\n                <li>享受高清流畅的网络加速</li>\n            </ol>\n        </section>\n        <section>\n            <h2>订阅方案</h2>\n            <div class=\"plans\">\n                <div class=\"card\">\n                    <h3>基础版</h3>\n                    <p class=\"plan-price\">¥15/月</p>\n                    <p>按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"card featured\">\n                    <h3>旗舰版</h3>\n                    <p class=\"plan-price\">¥35/月</p>\n                    <p>按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"card\">\n                    <h3>团队版</h3>\n                    <p class=\"plan-price\">¥85/月</p>\n                    <p>按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是机场测评？</summary>\n                <div class=\"content\">机场测评是专业的VPN和机场服务评测平台，提供真实的用户体验分享、订阅方案对比和客户端下载指南，帮助用户科学选择适合的网络加速服务。</div>\n            </details>\n            <details>\n                <summary>机场测评的订阅方案有哪些？</summary>\n                <div class=\"content\">我们提供基础版、旗舰版和团队版三种方案，分别满足不同用户的需求：个人使用、家庭/多设备使用和企业团队使用。</div>\n            </details>\n            <details>\n                <summary>如何选择合适的版本？</summary>\n                <div class=\"content\">预算有限且只需基础加速可选择基础版；追求流媒体全解锁和游戏加速推荐旗舰版；需要高流量和专属支持选择团队版。</div>\n            </details>\n            <details>\n                <summary>客户端下载地址在哪里？</summary>\n                <div class=\"content\">请访问官网下载中心，统一提供Windows、Mac、Android、iOS和浏览器扩展客户端，确保安全可靠。访问 <a href=\"#\">官网下载</a>。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备和平台？</summary>\n                <div class=\"content\">基础版和旗舰版支持3-5台设备同时在线，团队版支持20台。覆盖Windows、Mac、Android、iOS和浏览器端。</div>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <div class=\"content\">旗舰版和团队版提供7x24工单支持，团队版还有专属客户经理。基础版提供标准支持。</div>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    \n\n",
+          "hash": "7f404a2c5ad2c4211473e49d1d976fa34d0f8baaeb406da1a93c6e2d10c81760",
+          "seo": {
+            "title": "机场测评 - VPN加速器、机场订阅与客户端下载",
+            "keywords": "机场测评,vpn加速器,机场订阅,客户端下载,机场服务,vpn加速",
+            "description": "机场测评为您提供专业的机场服务评测，包括基础版、旗舰版和团队版订阅方案，以及客户端下载指南。帮助用户选择适合的网络加速工具，实现流畅加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "suyerxs32.cn",
+    "host": "p-14362fa251.suyerxs32.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "3bd3c8771cd49b596fd2b3e97b9a0c3f6572fff025411306040f2d5b8642cade",
+    "sitemap.xml": "a9eabfad7b2fbb2416095eb8ca2ab8f1fe556e4728ffd0a58566051825ac753c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1ee1a763b38d5defb69bb2c8057454e8d5932b1ce3190784ad58bd84f9687cf5",
+    "robots.txt": "a453cb11e2ddadc70f4512d24c41a1a71400557e7814d4b0a7930490c7990125",
+    "7e857e23e5e4767d3800fb0b52df3335.txt": "9efc76abf0c2f50624d01f5059b5a0e3032bcc967ed664e0adda8aa4e1b589b6"
+  },
+  "revision": "8b0a0d0e9d8eb062479c9a089432810e3c24eebc9a3f94c80d5637dba00f7b1e"
+}
